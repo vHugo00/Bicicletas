@@ -1,12 +1,11 @@
 @import "/css/global/global.css";
-
-@import "/css/utilidades/tipografia.css";
-@import "/css/utilidades/cores.css";
-
 @import "/css/global/header.css";
 @import "/css/global/footer.css";
 
+@import "/css/utilidades/cores.css";
+@import "/css/utilidades/tipografia.css";
 @import "/css/utilidades/componentes.css";
+@import "/css/utilidades/formulario.css";
 
 @import "/css/home/introducao.css";
 @import "/css/home/tecnologia.css";
@@ -21,5 +20,11 @@
 
 @import "/css/bicicletas/bicicletas-lista.css";
 @import "/css/bicicletas/bicicletas.css";
-
 @import "/css/bicicleta/bicicleta.css";
+
+@import "/css/orcamento/orcamento.css";
+
+@import "/css/bicicleta/seguro.css";
+
+@import "/css/contato/contato.css";
+@import "/css/contato/lojas.css";
